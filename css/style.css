@@ -258,10 +258,6 @@ p {
   text-align: center;
 }
 
-.header__title--br {
-  display: block;
-}
-
 .header__link-more {
   font-size: 14px;
   font-weight: 700;
