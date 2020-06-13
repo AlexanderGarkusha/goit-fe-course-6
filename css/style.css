@@ -230,6 +230,9 @@ p {
 .section__title {
   margin: 0px 0px 68px;
   text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+  display: block;
 }
 
 .section__title::after {
@@ -246,13 +249,14 @@ p {
   font-size: 24px;
   display: block;
   margin-bottom: 16px;
+  text-transform: none;
 }
 
-.section__title--typescript {
+/* .section__title--typescript {
   font-size: 30px;
   text-transform: uppercase;
   display: block;
-}
+} */
 
 .services__list {
   display: -webkit-box;
