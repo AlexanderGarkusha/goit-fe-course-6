@@ -593,12 +593,6 @@ p {
   color: rgb(204, 204, 204);
 }
 
-.footer__name-input:-ms-input-placeholder {
-  font-weight: 300;
-  font-style: italic;
-  color: rgb(204, 204, 204);
-}
-
 .footer__name-input::-ms-input-placeholder {
   font-weight: 300;
   font-style: italic;
